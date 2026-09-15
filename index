@@ -1,108 +1,347 @@
-# Privacy Policy for GPS MAP CAMERA
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - GPS MAP CAMERA</title>
 
-**Effective Date:** September 16, 2026
+    <style>
+        * {
+            box-sizing: border-box;
+        }
 
-GPS MAP CAMERA ("we", "our", or "the App") respects your privacy. This Privacy Policy explains how GPS MAP CAMERA handles information when you use our Android application.
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.7;
+            color: #222;
+            background: #f5f7fa;
+        }
 
-## 1. Information We Collect
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
 
-GPS MAP CAMERA may request access to the following information to provide its core features:
+        .card {
+            background: #ffffff;
+            padding: 45px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        }
 
-### Location Information
+        h1 {
+            margin-top: 0;
+            color: #111827;
+            font-size: 32px;
+        }
 
-The App may access your device's location/GPS information when you use GPS-related features.
+        h2 {
+            margin-top: 32px;
+            color: #1f2937;
+            font-size: 22px;
+        }
 
-Location information is used to:
+        h3 {
+            color: #374151;
+            font-size: 18px;
+        }
 
-* Determine your current geographic location.
-* Display GPS/location information on the camera screen.
-* Add location information, such as coordinates or map/location details, to photos when you choose to use these features.
+        p {
+            color: #4b5563;
+        }
 
-We do not sell your location information to third parties.
+        ul {
+            color: #4b5563;
+            padding-left: 25px;
+        }
 
-### Camera
+        .date {
+            color: #6b7280;
+            margin-bottom: 30px;
+        }
 
-The App requires access to your device's camera so that you can take photos using the GPS camera features.
+        .app-name {
+            font-weight: bold;
+            color: #111827;
+        }
 
-Camera access is used only to provide the camera functionality of the App.
+        .contact {
+            background: #f3f4f6;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
 
-### Photos and Media
+        a {
+            color: #2563eb;
+            text-decoration: none;
+        }
 
-Photos taken through GPS MAP CAMERA may be saved to your device's Gallery or other designated local storage.
+        a:hover {
+            text-decoration: underline;
+        }
 
-The App does not upload your photos to our servers or store your photos on our servers.
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            color: #6b7280;
+            font-size: 14px;
+        }
 
-## 2. How We Use Information
+        @media (max-width: 600px) {
+            .container {
+                margin: 20px auto;
+            }
 
-Information accessed by the App is used only to provide and improve the App's functionality, including:
+            .card {
+                padding: 25px 20px;
+            }
 
-* GPS/location-based camera features.
-* Displaying location information.
-* Adding GPS/location information to captured photos.
-* Taking and saving photos to your device.
+            h1 {
+                font-size: 27px;
+            }
 
-## 3. Data Storage and Sharing
+            h2 {
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
 
-GPS MAP CAMERA is designed to process the information required for its features on your device.
+<body>
 
-We do not sell, rent, or share your personal information with third parties for advertising or marketing purposes.
+<div class="container">
 
-We do not operate a server that stores your captured photos or GPS information.
+    <div class="card">
 
-## 4. Advertising
+        <h1>Privacy Policy for GPS MAP CAMERA</h1>
 
-GPS MAP CAMERA does **not currently display advertisements** and does not use Google AdMob or other advertising SDKs for advertising purposes.
+        <p class="date">
+            <strong>Effective Date:</strong> September 16, 2026
+        </p>
 
-## 5. Third-Party Services
+        <p>
+            GPS MAP CAMERA ("we", "our", or "the App") respects your privacy.
+            This Privacy Policy explains how GPS MAP CAMERA handles information
+            when you use our Android application.
+        </p>
 
-The App may use Android system services and APIs required to provide camera, location, mapping, and local storage functionality.
+        <h2>1. Information We Collect</h2>
 
-These services are used according to their respective privacy policies and platform requirements.
+        <p>
+            GPS MAP CAMERA may request access to certain device information
+            to provide its core features.
+        </p>
 
-## 6. Permissions
+        <h3>Location Information</h3>
 
-Depending on the features you use, GPS MAP CAMERA may request permissions such as:
+        <p>
+            The App may access your device's GPS/location information when
+            you use GPS-related features.
+        </p>
 
-* **Location:** To determine your GPS location and provide location-based camera features.
-* **Camera:** To capture photos.
-* **Photos/Media or Storage:** To save and access photos on your device, where required by your Android version and the features you use.
+        <p>Location information may be used to:</p>
 
-You can manage or revoke app permissions at any time through your Android device settings. Revoking certain permissions may prevent related features from working correctly.
+        <ul>
+            <li>Determine your current geographic location.</li>
+            <li>Display GPS/location information on the camera screen.</li>
+            <li>Add location information, such as coordinates or map/location details, to photos when you choose to use these features.</li>
+        </ul>
 
-## 7. Data Security
+        <p>
+            We do not sell your location information to third parties.
+        </p>
 
-We take reasonable measures to protect information processed by the App. Since photos and related information may be stored on your own device, you should also use appropriate security measures on your device, such as a screen lock or other device security features.
+        <h3>Camera</h3>
 
-## 8. Children's Privacy
+        <p>
+            The App requires access to your device's camera so that you can
+            take photos using the GPS camera features.
+        </p>
 
-GPS MAP CAMERA is not specifically directed toward children under the age of 13.
+        <p>
+            Camera access is used only to provide the camera functionality
+            of the App.
+        </p>
 
-We do not knowingly collect personal information from children through our own servers.
+        <h3>Photos and Media</h3>
 
-## 9. Your Choices
+        <p>
+            Photos taken through GPS MAP CAMERA may be saved to your device's
+            Gallery or other designated local storage.
+        </p>
 
-You can:
+        <p>
+            The App does not upload your photos to our servers or store your
+            photos on our servers.
+        </p>
 
-* Allow or deny location permission.
-* Allow or deny camera permission.
-* Manage photo/media permissions through Android settings.
-* Delete photos created by the App from your device at any time.
-* Uninstall the App to stop its access to device permissions.
+        <h2>2. How We Use Information</h2>
 
-## 10. Changes to This Privacy Policy
+        <p>
+            Information accessed by the App is used only to provide and
+            improve the App's functionality, including:
+        </p>
 
-We may update this Privacy Policy from time to time. Any changes will be reflected by updating the "Effective Date" at the top of this Privacy Policy.
+        <ul>
+            <li>GPS/location-based camera features.</li>
+            <li>Displaying location information.</li>
+            <li>Adding GPS/location information to captured photos.</li>
+            <li>Taking and saving photos to your device.</li>
+        </ul>
 
-We encourage you to review this Privacy Policy periodically for any changes.
+        <h2>3. Data Storage and Sharing</h2>
 
-## 11. Contact Us
+        <p>
+            GPS MAP CAMERA is designed to process the information required
+            for its features on your device.
+        </p>
 
-If you have questions or concerns about this Privacy Policy or GPS MAP CAMERA, please contact us at:
+        <p>
+            We do not sell, rent, or share your personal information with
+            third parties for advertising or marketing purposes.
+        </p>
 
-**Email:** [YOUR SUPPORT EMAIL]
+        <p>
+            We do not operate a server that stores your captured photos or
+            GPS information.
+        </p>
 
----
+        <h2>4. Advertising</h2>
 
-**GPS MAP CAMERA**
+        <p>
+            GPS MAP CAMERA does <strong>not currently display advertisements</strong>
+            and does not use Google AdMob or other advertising SDKs for
+            advertising purposes.
+        </p>
 
-This Privacy Policy applies to the GPS MAP CAMERA Android application.
+        <h2>5. Third-Party Services</h2>
+
+        <p>
+            The App may use Android system services and APIs required to
+            provide camera, location, mapping, and local storage functionality.
+        </p>
+
+        <p>
+            These services are used according to their respective privacy
+            policies and platform requirements.
+        </p>
+
+        <h2>6. Permissions</h2>
+
+        <p>
+            Depending on the features you use, GPS MAP CAMERA may request
+            permissions such as:
+        </p>
+
+        <ul>
+            <li>
+                <strong>Location:</strong>
+                To determine your GPS location and provide location-based
+                camera features.
+            </li>
+
+            <li>
+                <strong>Camera:</strong>
+                To capture photos.
+            </li>
+
+            <li>
+                <strong>Photos/Media or Storage:</strong>
+                To save and access photos on your device, where required
+                by your Android version and the features you use.
+            </li>
+        </ul>
+
+        <p>
+            You can manage or revoke app permissions at any time through
+            your Android device settings. Revoking certain permissions
+            may prevent related features from working correctly.
+        </p>
+
+        <h2>7. Data Security</h2>
+
+        <p>
+            We take reasonable measures to protect information processed
+            by the App. Since photos and related information may be stored
+            on your own device, you should also use appropriate security
+            measures on your device, such as a screen lock or other device
+            security features.
+        </p>
+
+        <h2>8. Children's Privacy</h2>
+
+        <p>
+            GPS MAP CAMERA is not specifically directed toward children
+            under the age of 13.
+        </p>
+
+        <p>
+            We do not knowingly collect personal information from children
+            through our own servers.
+        </p>
+
+        <h2>9. Your Choices</h2>
+
+        <p>You can:</p>
+
+        <ul>
+            <li>Allow or deny location permission.</li>
+            <li>Allow or deny camera permission.</li>
+            <li>Manage photo/media permissions through Android settings.</li>
+            <li>Delete photos created by the App from your device at any time.</li>
+            <li>Uninstall the App to stop its access to device permissions.</li>
+        </ul>
+
+        <h2>10. Changes to This Privacy Policy</h2>
+
+        <p>
+            We may update this Privacy Policy from time to time.
+            Any changes will be reflected by updating the "Effective Date"
+            at the top of this Privacy Policy.
+        </p>
+
+        <p>
+            We encourage you to review this Privacy Policy periodically
+            for any changes.
+        </p>
+
+        <h2>11. Contact Us</h2>
+
+        <p>
+            If you have questions or concerns about this Privacy Policy
+            or GPS MAP CAMERA, please contact us at:
+        </p>
+
+        <div class="contact">
+            <strong>Email:</strong>
+            <a href="mailto:YOUR_EMAIL@example.com">
+                YOUR_EMAIL@example.com
+            </a>
+        </div>
+
+        <h2>12. App Information</h2>
+
+        <p>
+            <strong>App Name:</strong> GPS MAP CAMERA
+        </p>
+
+        <p>
+            This Privacy Policy applies to the GPS MAP CAMERA Android
+            application.
+        </p>
+
+    </div>
+
+    <footer>
+        &copy; 2026 GPS MAP CAMERA. All rights reserved.
+    </footer>
+
+</div>
+
+</body>
+</html>
+```
